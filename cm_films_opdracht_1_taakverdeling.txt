@@ -1,0 +1,14 @@
+Uitgezochte variabelen en taakverdeling opdracht 1:
+
+Susan:
+imdb_score
+movie_facebook_likes
+
+Agus:
+budget
+gross
+
+Tobias:
+num_voted_users
+title_year
+
