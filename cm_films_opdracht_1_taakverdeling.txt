@@ -1,14 +1,23 @@
 Uitgezochte variabelen en taakverdeling opdracht 1:
 
 Susan:
-imdb_score
-movie_facebook_likes
+imdb_score : discreet
+movie_facebook_likes: discreet. 
+
+Allebei afhankelijk (/ onafhankelijk als je kijkt naar een aantal variebele zoals bijvoorbeeld gross (meer?))
 
 Agus:
-budget
-gross
+budget - onafhankelijk. - soms afhankelijk (acteurs, hoeveel cgi, director)
+gross - afhankelijk
+
+beide continue
 
 Tobias:
-num_voted_users
-title_year
+num_voted_users - discreet
+title_year - ordinaal
 
+
+
+Vragen:
+
+Is num_voted_users continue of discreet?
