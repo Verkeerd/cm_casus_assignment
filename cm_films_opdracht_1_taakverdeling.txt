@@ -2,7 +2,7 @@ Uitgezochte variabelen en taakverdeling opdracht 1:
 
 Susan:
 imdb_score : discreet
-movie_facebook_likes: discreet. 
+movie_facebook_likes: continu. 
 
 Allebei afhankelijk (/ onafhankelijk als je kijkt naar een aantal variebele zoals bijvoorbeeld gross (meer?))
 
